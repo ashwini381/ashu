@@ -1,0 +1,8 @@
+<html>
+<head>
+<title> Welcome to first project</title>
+</head>
+<body>
+</p>Hello all</p>
+</body>
+</html>
